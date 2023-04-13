@@ -1,0 +1,12 @@
+.cc_hero_container{
+    display: flex;
+    column-gap: 30px;
+    border: 1px solid #d5d1d1;
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+}
+.cc_hero_container .cc_col_left{
+    width: 100%;
+    max-width: 70%;
+}

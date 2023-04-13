@@ -1,0 +1,22 @@
+.sp_table{
+	width: 100%;
+	border-collapse: collapse!important;
+}
+.sp_table th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: #3182ce;
+	/*background-color: #ddd;*/
+	color: white;
+}
+.sp_table td, .sp_table th {
+	border: 1px solid #ddd;
+	padding: 20px 8px;
+}
+.sp_table tr{
+	text-align: left;
+}
+.sp_table tr:hover {
+	background-color: #ddd;
+}
